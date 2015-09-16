@@ -42,3 +42,43 @@ json2svg --scene static1.json --output static1.svg
 ```
 
 For convenience, there is also a bash script (`all.sh`) running the program on all scenes.
+
+## Scenes
+
+### Static
+
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static1.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static2.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static3.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static4.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static5.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static6.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static7.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static8.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static9.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static10.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static11.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static12.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static13.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static14.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static15.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/static16.svg" width="100">
+
+### Dynamic
+
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic1.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic2.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic3.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic4.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic5.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic6.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic7.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic8.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic9.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic10.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic11.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic12.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic13.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic14.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic15.svg" width="100">
+<img src="https://cdn.rawgit.com/USC-ACTLab/coverage_scenes/master/svg/dynamic16.svg" width="100">

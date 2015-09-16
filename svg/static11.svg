@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" version="1.1"
+<svg width="400" height="400" version="1.1"
 xmlns="http://www.w3.org/2000/svg">
 <g fill-rule="evenodd"><path d="M 0,400 L 400,400 L 400,0 L 0,0 z " style="fill-opacity:1.0;fill:none;stroke:rgb(0,0,0);stroke-width:5"/></g>
 <g fill-rule="evenodd"><path d="M 240,213 L 293,186 L 293,213 z " style="fill-opacity:1.0;fill:rgb(153,153,153)"/></g>

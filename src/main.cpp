@@ -44,7 +44,7 @@ double run(
 {
   // Declare a stream and an SVG mapper
   std::ofstream svg(outputFile);
-  boost::geometry::svg_mapper<Point> mapper(svg, 400, 400);
+  boost::geometry::svg_mapper<Point> mapper(svg, 400, 400, "width=\"400\" height=\"400\"");
 
   // Create empty property tree object
   pt::ptree tree;
