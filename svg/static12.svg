@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+<g fill-rule="evenodd"><path d="M 0,400 L 400,400 L 400,0 L 0,0 z " style="fill-opacity:1.0;fill:none;stroke:rgb(0,0,0);stroke-width:5"/></g>
+<g fill-rule="evenodd"><path d="M 186,200 L 200,146 L 226,173 L 266,133 L 280,200 L 333,146 L 346,213 z " style="fill-opacity:1.0;fill:rgb(153,153,153)"/></g>
+<g fill-rule="evenodd"><path d="M 200,200 z " style="fill-opacity:0.8;fill:none;stroke:rgb(0,0,255);stroke-width:2"/></g>
+<circle cx="66" cy="200" r="5" style="fill-opacity:0.5;fill:rgb(153,204,0);stroke:rgb(153,204,0);stroke-width:2"/>
+<polyline points="89,213 66,200 89,186" style="fill-opacity:0.8;fill:none;stroke:rgb(153,204,0);stroke-width:2;fill:none"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:15px" x="66" y="200"><tspan x="66" y="200">2 m/s</tspan><tspan x="66" y="210">1 rad/s</tspan></text>
+</svg>

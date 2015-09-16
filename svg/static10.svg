@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+<g fill-rule="evenodd"><path d="M 0,400 L 400,400 L 400,0 L 0,0 z " style="fill-opacity:1.0;fill:none;stroke:rgb(0,0,0);stroke-width:5"/></g>
+<g fill-rule="evenodd"><path d="M 173,213 L 226,186 L 226,213 z " style="fill-opacity:1.0;fill:rgb(153,153,153)"/></g>
+<g fill-rule="evenodd"><path d="M 200,200 z " style="fill-opacity:0.8;fill:none;stroke:rgb(0,0,255);stroke-width:2"/></g>
+<g fill-rule="evenodd"><path d="M 240,146 L 293,120 L 293,146 z " style="fill-opacity:1.0;fill:rgb(153,153,153)"/></g>
+<g fill-rule="evenodd"><path d="M 266,133 z " style="fill-opacity:0.8;fill:none;stroke:rgb(0,0,255);stroke-width:2"/></g>
+<circle cx="200" cy="333" r="5" style="fill-opacity:0.5;fill:rgb(153,204,0);stroke:rgb(153,204,0);stroke-width:2"/>
+<polyline points="213,310 200,333 186,310" style="fill-opacity:0.8;fill:none;stroke:rgb(153,204,0);stroke-width:2;fill:none"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:15px" x="200" y="333"><tspan x="200" y="333">2 m/s</tspan><tspan x="200" y="343">1 rad/s</tspan></text>
+<circle cx="66" cy="66" r="5" style="fill-opacity:0.5;fill:rgb(153,204,0);stroke:rgb(153,204,0);stroke-width:2"/>
+<polyline points="71,92 66,66 91,75" style="fill-opacity:0.8;fill:none;stroke:rgb(153,204,0);stroke-width:2;fill:none"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:15px" x="66" y="66"><tspan x="66" y="66">2 m/s</tspan><tspan x="66" y="76">1 rad/s</tspan></text>
+</svg>

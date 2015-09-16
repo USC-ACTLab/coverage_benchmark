@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+<g fill-rule="evenodd"><path d="M 0,400 L 400,400 L 400,0 L 0,0 z " style="fill-opacity:1.0;fill:none;stroke:rgb(0,0,0);stroke-width:5"/></g>
+<g fill-rule="evenodd"><path d="M 53,346 L 53,320 L 80,320 L 80,346 z " style="fill-opacity:1.0;fill:rgb(153,153,153)"/></g>
+<g fill-rule="evenodd"><path d="M 66,333 L 66,66 L 133,66 L 133,333 z " style="fill-opacity:0.8;fill:none;stroke:rgb(0,0,255);stroke-width:2"/></g>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:15px" x="66" y="333">0.5 m/s</text>
+<g fill-rule="evenodd"><path d="M 320,80 L 320,53 L 346,53 L 346,80 z " style="fill-opacity:1.0;fill:rgb(153,153,153)"/></g>
+<g fill-rule="evenodd"><path d="M 333,66 L 333,333 L 266,333 L 266,66 z " style="fill-opacity:0.8;fill:none;stroke:rgb(0,0,255);stroke-width:2"/></g>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:15px" x="333" y="66">0.75 m/s</text>
+<g fill-rule="evenodd"><path d="M 186,213 L 186,186 L 213,186 L 213,213 z " style="fill-opacity:1.0;fill:rgb(153,153,153)"/></g>
+<g fill-rule="evenodd"><path d="M 200,200 L 266,66 L 133,333 z " style="fill-opacity:0.8;fill:none;stroke:rgb(0,0,255);stroke-width:2"/></g>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:15px" x="200" y="200">0.25 m/s</text>
+<circle cx="200" cy="333" r="5" style="fill-opacity:0.5;fill:rgb(153,204,0);stroke:rgb(153,204,0);stroke-width:2"/>
+<polyline points="213,310 200,333 186,310" style="fill-opacity:0.8;fill:none;stroke:rgb(153,204,0);stroke-width:2;fill:none"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:15px" x="200" y="333"><tspan x="200" y="333">5 m/s</tspan><tspan x="200" y="343">2 rad/s</tspan></text>
+<circle cx="200" cy="66" r="5" style="fill-opacity:0.5;fill:rgb(153,204,0);stroke:rgb(153,204,0);stroke-width:2"/>
+<polyline points="186,89 200,66 213,89" style="fill-opacity:0.8;fill:none;stroke:rgb(153,204,0);stroke-width:2;fill:none"/>
+<text style="fill:rgb(0,0,0);font-family:Arial;font-size:15px" x="200" y="66"><tspan x="200" y="66">5 m/s</tspan><tspan x="200" y="76">2 rad/s</tspan></text>
+</svg>
