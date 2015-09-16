@@ -1,0 +1,28 @@
+{
+	"boundary": "POLYGON((-15 -15,15 -15,15 15,-15 15))",
+	"targets":
+	[
+		{
+			"shape": "POLYGON((-1 -1,-1 1,1 1,1 -1))",
+			"path": "POLYGON((-7 9))"
+		}
+	],
+	"obstacles":
+	[
+		{
+			"shape": "POLYGON((-1 -6,-1 6,1 8,1 -8))",
+			"path": "POLYGON((0 -6.5, 0 6.5))",
+			"velocity": 2.0
+		}
+	],
+	"cameraFoV": 30,
+	"cameras":
+	[
+		{
+			"pos": "POINT(5 0)",
+			"angle": 120,
+			"maxVelocity": 2.0,
+			"maxAngularVelocity": 1.0
+		}
+	]
+}

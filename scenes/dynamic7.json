@@ -1,0 +1,40 @@
+{
+	"boundary": "POLYGON((-15 -15,15 -15,15 15,-15 15))",
+	"targets":
+	[
+		{
+			"shape": "POLYGON((-1 -1,-1 1,1 1,1 -1))",
+			"path": "POLYGON((-10 -10,-10 10,-5 10,-5 -10))",
+			"velocity": 0.5
+		},
+		{
+			"shape": "POLYGON((-1 -1,-1 1,1 1,1 -1))",
+			"path": "POLYGON((10 10,10 -10,5 -10,5 10))",
+			"velocity": 0.75
+		},
+		{
+			"shape": "POLYGON((-1 -1,-1 1,1 1,1 -1))",
+			"path": "POLYGON((0 0,5 10, -5 -10))",
+			"velocity": 0.25
+		}
+	],
+	"obstacles":
+	[
+	],
+	"cameraFoV": 30,
+	"cameras":
+	[
+		{
+			"pos": "POINT(0 -10)",
+			"angle": 90,
+			"maxVelocity": 5.0,
+			"maxAngularVelocity": 2.0
+		},
+		{
+			"pos": "POINT(0 10)",
+			"angle": 270,
+			"maxVelocity": 5.0,
+			"maxAngularVelocity": 2.0
+		}
+	]
+}
